@@ -2,7 +2,7 @@
 
 ### I'll releast the .apk for the app in the final stage of the app (ie. when completed completely). Here is the login screen:
 
-<img src="Screenshots and Raws/Screenshot_2021-02-24-10-38-18-217_host.exp.exponent.jpg" alt="Screenshot_2021-02-24-10-38-18-217_host.exp.exponent" style="zoom:13%;" />
+<img src="https://github.com/SetuCoder/BarterApp-1/blob/main/Screenshots%20and%20raws/Screenshot_2021-02-24-10-38-18-217_host.exp.exponent.jpg" alt="Screenshot_2021-02-24-10-38-18-217_host.exp.exponent" style="zoom:13%;" />
 
 
 
